@@ -18,6 +18,13 @@ Route::get('/', function () {
 });
 
 
+Auth::routes();
+
+
+//==================================================================================
+//========================= Route yang Dibuat Fornt End ============================
+//==================================================================================
+
 
 Route::get('/home', 'HomeController@index')->name('home');
 
@@ -26,8 +33,6 @@ Route::prefix('admin')
     ->namespace('Admin')
     ->group(function () {
 
-        Route::get('/userDemo', 'UserDemographicController@index')
-            ->name('userDemo');
+        Route::get('/userDemographic', 'UserDemographicController@index')
+            ->name('userDemographic');
     });
-
-    // Auth::routes();
