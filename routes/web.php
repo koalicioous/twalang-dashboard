@@ -35,4 +35,10 @@ Route::prefix('admin')
 
         Route::get('/userDemographic', 'UserDemographicController@index')
             ->name('userDemographic');
+
+        Route::get('/categoryPurchase', 'CategoryPurchaseController@index')
+            ->name('categoryPurchase');
+
+        Route::get('/categoryPurchase-detail', 'CategoryPurchaseController@detail')
+            ->name('categoryPurchase-detail');
     });
