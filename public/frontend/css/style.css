@@ -1,0 +1,114 @@
+.wave {
+    position: fixed;
+    bottom: 0;
+    left: 900;
+    height: 25%;
+    z-index: -1;
+}
+
+.wave1 {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 25%;
+    z-index: -1;
+}
+
+.hero h1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    color: #2AA480;
+    font-size: 34px;
+}
+
+.hero p {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 19px;
+    color: #12C28D;
+}
+
+.btn-primary {
+    background: #FF9900;
+    border: 0;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background: #e48902;
+}
+
+.btn-primary1 {
+    color: #ffffff;
+    background: #2AA480;
+    border: 0;
+    padding: 13px 53px 12px 53px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.btn-primary1:hover {
+    color: #ffffff;
+    background: #1a795c;
+}
+
+.btn-video {
+    /* background: #FF9900; */
+    color: #FF9900;
+    border: 0;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-secondary {
+    background: none;
+    border: 1px solid #BCD0E5;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #173A56;
+}
+
+.btn-secondary:hover {
+    background: none;
+    border: 1px solid rgb(159, 177, 197);
+    color: #173A56;
+}
+
+.navbar-nav .nav-link {
+    color: #2F281E;
+}
+
+.kolom {
+    margin-top: 20%;
+}
+
+.text-notif {
+    color: #1DAA94;
+}
+
+.ceklis {
+    border: #1a795c;
+}
+
+@media only screen and (max-width: 768px) {
+    .wave {
+        margin-top: 100px;
+    }
+    .btn-primary,
+    .btn-secondary {
+        margin-top: 20px;
+        margin-left: 0 !important;
+    }
+    .btn-primary1,
+    .btn-video {
+        margin-top: 20px;
+        margin-left: 0 !important;
+    }
+    .kolom {
+        margin-top: 5%;
+    }
+}
