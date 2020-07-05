@@ -47,7 +47,7 @@
                             <div class="mt-4 text-center small">
                                 <span class="mr-2">
                                     <i class="fas fa-circle text-primary"></i>
-                                    <14 Tahun </span>
+                                    <span>14 Tahun </span>
                                 <span class="mr-2">
                                             <i class="fas fa-circle text-success"></i> 14-35 Tahun
                                         </span>

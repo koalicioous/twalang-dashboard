@@ -41,4 +41,7 @@ Route::prefix('admin')
 
         Route::get('/categoryPurchase-detail', 'CategoryPurchaseController@detail')
             ->name('categoryPurchase-detail');
+
+        Route::get('/dashboard','DashboardController@view')
+            ->name('dashboard');
     });
