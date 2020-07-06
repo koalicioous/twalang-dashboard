@@ -22,7 +22,7 @@
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Marketing:</h6>
                 <a class="collapse-item" href={{route('userDemographic')}}>Users Demographic</a>
-                <a class="collapse-item" href="cards.html">Average Expensess & <br> Booking Season</a>
+                <a class="collapse-item" href={{route('averageExpensess')}}>Average Expensess & <br> Booking Season</a>
                 <h6 class="collapse-header">Product Development:</h6>
                 <a class="collapse-item" href={{route('categoryPurchase')}}>Category Purchase</a>
             </div>

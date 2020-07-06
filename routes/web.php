@@ -42,6 +42,9 @@ Route::prefix('admin')
         Route::get('/categoryPurchase-detail', 'CategoryPurchaseController@detail')
             ->name('categoryPurchase-detail');
 
-        Route::get('/dashboard','DashboardController@view')
+        Route::get('/average-expensess', 'AverageExpensesController@index')
+            ->name('averageExpensess');
+
+        Route::get('/dashboard', 'DashboardController@view')
             ->name('dashboard');
     });

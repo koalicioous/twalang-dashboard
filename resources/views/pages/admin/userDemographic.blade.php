@@ -116,21 +116,21 @@
                             <thead>
                                 <tr>
                                     <th>Name</th>
-                                    <th>Position</th>
-                                    <th>Office</th>
+                                    <th>Work</th>
+                                    <th>From</th>
                                     <th>Age</th>
-                                    <th>Start date</th>
-                                    <th>Salary</th>
+                                    <th>Register Date</th>
+                                    <th>Balance</th>
                                 </tr>
                             </thead>
                             <tfoot>
                                 <tr>
                                     <th>Name</th>
-                                    <th>Position</th>
-                                    <th>Office</th>
+                                    <th>Work</th>
+                                    <th>From</th>
                                     <th>Age</th>
-                                    <th>Start date</th>
-                                    <th>Salary</th>
+                                    <th>Register Date</th>
+                                    <th>Balance</th>
                                 </tr>
                             </tfoot>
                             <tbody>

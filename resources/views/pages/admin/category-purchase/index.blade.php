@@ -17,8 +17,8 @@
             <div class="row no-gutters align-items-center">
                 <div class="col mr-2">
                     <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                        Earnings (Monthly)</div>
-                    <div class="h5 mb-0 font-weight-bold text-gray-800">$40,000</div>
+                        Yogyakarta</div>
+                    <div class="h5 mb-0 font-weight-bold text-gray-800">Membatik Yogyakarta</div>
                 </div>
                 <a href={{route('categoryPurchase-detail')}} class="btn btn-primary btn-icon-split">
                     {{-- <span class="icon text-white-50">
@@ -37,8 +37,8 @@
             <div class="row no-gutters align-items-center">
                 <div class="col mr-2">
                     <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                        Earnings (Monthly)</div>
-                    <div class="h5 mb-0 font-weight-bold text-gray-800">$40,000</div>
+                        Jakarta</div>
+                    <div class="h5 mb-0 font-weight-bold text-gray-800">Keliling Jakarta</div>
                 </div>
                 <a href={{route('categoryPurchase-detail')}} class="btn btn-primary btn-icon-split">
                     {{-- <span class="icon text-white-50">
@@ -57,8 +57,8 @@
             <div class="row no-gutters align-items-center">
                 <div class="col mr-2">
                     <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                        Earnings (Monthly)</div>
-                    <div class="h5 mb-0 font-weight-bold text-gray-800">$40,000</div>
+                        Surabaya</div>
+                    <div class="h5 mb-0 font-weight-bold text-gray-800">Buat Olahan Sate</div>
                 </div>
                 <a href={{route('categoryPurchase-detail')}} class="btn btn-primary btn-icon-split">
                     {{-- <span class="icon text-white-50">
@@ -77,8 +77,8 @@
             <div class="row no-gutters align-items-center">
                 <div class="col mr-2">
                     <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                        Earnings (Monthly)</div>
-                    <div class="h5 mb-0 font-weight-bold text-gray-800">$40,000</div>
+                        Nusa Penida</div>
+                    <div class="h5 mb-0 font-weight-bold text-gray-800">Telusuri Pantai Indah</div>
                 </div>
                 <a href={{route('categoryPurchase-detail')}} class="btn btn-primary btn-icon-split">
                     {{-- <span class="icon text-white-50">
